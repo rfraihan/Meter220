@@ -23,22 +23,6 @@ To use Token Display, follow these steps:
 
 The site processes the pasted meter token return message to identify and separate each token sequence. It then displays these sequences one by one, making it easier for users to manage and use their tokens effectively.
 
-## Contributing
-
-We welcome contributions to Token Display! Whether you're interested in fixing bugs, adding new features, or improving documentation, your input is valuable.
-
-### How to Contribute
-
-1. **Fork** the [repository](https://github.com/imahmud1/Meter220) on GitHub.
-2. **Clone** your fork to your local machine.
-3. **Create a new branch** for your changes.
-4. **Make** your changes in the new branch.
-5. **Push** the changes to your fork.
-6. **Submit a pull request** to the original repository with a clear description of your changes.
-
-### Discussion and Questions
-
-If you have questions, suggestions, or want to discuss potential improvements, feel free to [open an issue](https://github.com/imahmud1/Meter220/issues) in the repository.
 
 ## License
 
